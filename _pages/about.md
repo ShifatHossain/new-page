@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral Scholar, College of Medicine, University of Central Florida. Email - mshifat dot hossain at ucf dot edu
+subtitle: Postdoctoral Scholar, College of Medicine, University of Central Florida. Email - mshifat.hossain@ucf.edu
 
 profile:
   align: right
