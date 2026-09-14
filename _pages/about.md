@@ -27,14 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Currently working as a Postdoctoral Scholar at Nimbus Lab at University of Central Florida. I recently completed my Ph.D. in Computer Engineering at the University of Central Florida, with a research focus on explainable and efficient artificial intelligence. My current work explores applications of AI in ultrasound, mammogram, and surgical video data processing, diffusion models, and large language model (LLM) systems.
+I hold a Ph.D. in Computer Engineering from the University of Central Florida, where my research centered on efficient and explainable artificial intelligence. My current research focuses on biomedical AI, specifically applying diffusion models, multi-modal systems, and large language models (LLMs) to clinical ultrasound, mammography, and surgical video analysis.
 
-I earned my Master’s degree in Electronics Engineering and have over two years of research experience in hardware development, machine learning, and biomedical signal and image processing. I also have experience teaching undergraduate-level courses as a university Lecturer.
+Previously, I earned an M.S. in Electronics Engineering and built over two years of experience as a university Lecturer and hardware researcher. My interdisciplinary background spans hardware-software co-design, machine learning, and biomedical signal and image processing.
 
-My research output includes 15 peer-reviewed journal publications in venues such as IEEE Transactions on Biomedical Engineering, IEEE Transactions on Consumer Electronics, Expert Systems with Applications, Biomedical Signal Processing and Control, and Nature Portfolio Scientific Reports. In addition, I have published 16 conference papers in leading venues, including WACV and AAAI.
-
-I am named as an inventor on 11 patents, including 7 South Korean patents (KIPO), 2 U.S. patents (USPTO), and 2 PCT patents (WIPO). Several of my research contributions are currently being translated into practice and adopted by healthcare industries for the development of wearable medical devices.
-
+**Key Highlights:**
+- **Publications:** Co-authored 15 peer-reviewed journal articles (including IEEE TBME, IEEE TCE, Expert Systems with Applications, BSPC, and Nature Scientific Reports) and 16 top-tier conference papers (including WACV and AAAI).
+- **Intellectual Property:** Named inventor on 11 patents across USPTO (2), WIPO/PCT (2), and KIPO (7).
+- **Translational Impact:** Several patent-backed innovations are currently adopted by industry partners for commercial wearable medical device development.
 
 **Current research interests:** Biomedical AI / Bio-Signal Processing, Trustworthy AI Systems, Wearable Devices, Autonomous Systems, Applications of ML in Signal and Image Processing
 
